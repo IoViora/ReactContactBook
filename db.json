@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "title": "Beretta m9a1",
+      "price": "700",
+      "descr": "New model of famous Italian Beretta 92",
+      "image": "https://s.hdnux.com/photos/42/41/73/9051844/4/rawImage.jpg",
+      "id": 5
+    },
+    {
+      "title": "AK-15",
+      "price": "1650",
+      "descr": "The new modal of famous Russian ak-47",
+      "image": "http://www.military-today.com/firearms/ak_15.jpg",
+      "id": 6
+    },
+    {
+      "title": "Steyr Aug a3",
+      "price": "2200 USD",
+      "descr": "The best creation of Austrian company",
+      "image": "https://www.americanrifleman.org/media/t1yferxs/steyr-aug-a3m1-review-f.jpg",
+      "id": 7
+    }
+  ]
+}
